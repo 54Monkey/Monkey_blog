@@ -1,0 +1,19 @@
+{{!< default}}
+
+{{#post}}
+
+  <article class="{{post_class}}">
+    <header>
+      <p text={{encode title}}{{encode ' »'}}&amp;hashtags={{tags separator="," autolink="false"}}&amp;url={{url absolute="true"}}">
+        {{#if image}}<img id="post-image" src={{image}} alt="{{{title}}}">{{/if}}
+        <h1 id="post-title">{{{title}}}</h1>
+      </p>
+    </header>
+
+    <div id="post-content" class="{{post_class}}">
+      {{content}}
+    </div>
+
+  </article>
+
+{{/post}}
