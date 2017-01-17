@@ -1,36 +1,31 @@
-# Uno Zen for Ghost
+# Monkey's blog (from Uno Zen Ghost)
 
-![Last version](https://img.shields.io/github/tag/Kikobeats/uno-zen.svg?style=flat-square)
-[![Build Status](http://img.shields.io/travis/Kikobeats/uno-zen/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/uno-zen)
-![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
-![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
+![Last version]()
+[![Build Status]()]()
+![Ghost version]()
+![Node version]()
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)]()
 
 > Minimalist and Elegant theme for Ghost.
 <br>
-> **NOTE**: Commercial version is available as [Uno Urban](https://sellfy.com/p/G5kK).
+> **NOTE**: The blog theme from Ghost, if u have any questions, u can find me as [Monkey](http://www.54monkey.com/about/).
 
-[<img src="http://i.imgur.com/LCSB4Ca.jpg">](http://kikobeats.com)
+[<img src="http://i.imgur.com/LCSB4Ca.jpg">](http://www.54monkey.com/#open)
 
-- [Uno Zen for Ghost](#uno-zen-for-ghost)
+- [Monkey for Ghost](#Monkey_blog)
   * [Introduction](#introduction)
     + [Whats is new in 2.x](#whats-is-new-in-2x)
-  * [Installation](#installation)
-  * [Update](#update)
-    + [Update your current version](#update-your-current-version)
-    + [Receive a mail notification when a new version is available](#receive-a-mail-notification-when-a-new-version-is-available)
-  * [Development and Customization](#development-and-customization)
-  * [Showcase](#showcase)
-  * [Related](#related)
-  * [License](#license)
+  * [Advertisement](#advertisement)
 
 ---
 
 ## Introduction
 
-**Uno Zen** is a theme for Ghost inspired in [Uno](https://github.com/daleanthony/Uno) but providing a set of missing features in the original theme that are aligned with minimalist design style.
+**Monkey** is an Application product manager, the "Monkey_blog" is a theme of the 'Ghost', just for study about Html of technical. so i really appreciate 'Uno Zen'.
 
-### Whats is new in 2.x
+我坚信：每一个会设计的产品经理，都应该有一颗学习技术的心。
+
+### Whats is new in 2.x (About theme of Uno Zen)
 
 - Totally rewritten using HTML5 and CSS3.
 - Improved development workflow with gulp + browersync.
@@ -39,15 +34,34 @@
 
 Things that already existed:
 
-- A good [404 page error](http://kikobeats.com/404).
+- A good [404 page error](http://www.54monkey.com/404/).
 - Search support.
 - Multiaccount support.
 - Loading progress state for each page.
 - Estimation about the time of reading.
 
-You can see a [demo](http://kikobeats.com) in my own blog. Also you can check the [styleguide](http://kikobeats.com/styleguide) to view how it looks.
+You can see a [demo](http://www.54monkey.com/#open) in my own blog. 
 
-## Installation
+
+## Advertisement 
+
+微信公众号：HDTerry666
+
+
+
+
+
+
+
+<!--  ## Installation
+
+ * [Update](#update)
+    + [Update your current version](#update-your-current-version)
+    + [Receive a mail notification when a new version is available](#receive-a-mail-notification-when-a-new-version-is-available)
+  * [Development and Customization](#development-and-customization)
+  * [Showcase](#showcase)
+  * [Related](#related)
+  * [License](#license)
 
 Please ensure that `git` and `curl` is installed on your machine.
 
@@ -135,4 +149,4 @@ See in [Documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENT
 
 ## License
 
-MIT © [Kiko Beats](kikobeats.com)
+MIT © [Kiko Beats](kikobeats.com) -->
