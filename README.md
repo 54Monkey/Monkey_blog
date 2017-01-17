@@ -13,6 +13,7 @@
 - [Monkey for Ghost](#Monkey_blog)
   * [Introduction](#introduction)
     + [Whats is new in 2.x](#whats-is-new-in-2x)
+    + [Dream](#dream)
   * [Advertisement](#advertisement)
 
 ---
@@ -21,7 +22,12 @@
 
 **Monkey** is an Application product manager, the "Monkey_blog" is a theme of the 'Ghost', just for study about Html of technical. so i really appreciate 'Uno Zen'.
 
-我坚信：每一个会设计的产品经理，都应该有一颗学习技术的心。
+
+
+###我坚信：每一个会设计的产品经理，都应该有一颗学习技术的心。
+
+
+
 
 ### Whats is new in 2.x (About theme of Uno Zen)
 
