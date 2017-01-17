@@ -1,10 +1,8 @@
-# Monkey's blog (from Uno Zen Ghost)
+# Monkey's blog for Ghost
 
-![Last version]()
-[![Build Status]()]()
-![Ghost version]()
-![Node version]()
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)]()
+![Last version](https://img.shields.io/github/tag/Kikobeats/uno-zen.svg?style=flat-square)
+![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
+![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)
 
 > Minimalist and Elegant theme for Ghost.
 <br>
